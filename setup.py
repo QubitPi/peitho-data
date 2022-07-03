@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='peitho_data',
-    version='0.1.0',
+    version='1.0.0',
     description='A Python package analyzing effective-communication data',
     url='https://github.com/QubitPi/peitho-data',
     author='Jiaqi liu',
