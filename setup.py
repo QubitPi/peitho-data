@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(
     name='peitho_data',
-    version='1.0.0',
-    description='A Python package analyzing effective-communication data',
+    version='1.0.1',
+    description='An opinionated Python package on Big Data Analytics',
     url='https://github.com/QubitPi/peitho-data',
     author='Jiaqi liu',
     author_email='jiaqixy@prontonmail.com',
